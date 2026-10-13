@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:a78bfa,100:34d399&height=140&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="header wave"/>
 
-<img src="assets/hero.svg" alt="Suneel Bose K - Geospatial Engineer and Full-Stack Developer" width="100%"/>
+<img src="assets/hero.svg" alt="Suneel Bose K, Geospatial Engineer and Full-Stack Developer" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=7DD3FC&center=true&vCenter=true&multiline=false&width=760&lines=Geospatial+Engineer+%F0%9F%8C%8D;Python+%26+TypeScript+Developer+%E2%9A%A1;Building+AI-native+GIS+tooling+%F0%9F%9B%B0%EF%B8%8F;Real-time+spatial+data+pipelines+%F0%9F%93%A1;Vector+search+%26+RAG+for+the+local-first+web+%F0%9F%94%8D" alt="Typing SVG"/></a>
 
@@ -16,47 +16,64 @@
 
 </div>
 
-## 🧭 About Me
+<h2 align="center">🧭 About Me</h2>
 
-<img align="right" src="assets/about.svg" width="440" alt="Profile card: role, company, location, education and languages"/>
-
-Hey, I'm **Suneel Bose K** 👋 — a **Geospatial Engineer** and **Full-Stack Developer** from Tamil Nadu, India, building at **ArcGX TechLabs**.
-
-I love turning **maps, sensors and city data** into software people can actually use: real-time spatial pipelines, local-first vector search, and tools that make Python workflows visible.
-
-🛰️ &nbsp;Currently crafting **AI-native GIS formats** and **quantum-inspired spatial intelligence** for Python.
-
-🎓 &nbsp;B.Tech from **Bharathidasan University** — where I built **EcoSpatial**, a geospatial decision support system for urban environmental risk.
-
-💬 &nbsp;Ask me about **GIS, H3 hexagons, PostGIS, FAISS, RAG, Next.js** — or anything spatial.
+<table>
+<tr>
+<td width="55%" valign="top">
 
 <br/>
+
+Hi, I'm **Suneel Bose K**, a **Geospatial Engineer** and **Full-Stack Developer** from Tamil Nadu, India. I build at **ArcGX TechLabs**.
+
+I turn **maps, sensors and city data** into software people actually use: real-time spatial pipelines, local-first vector search, and tools that make Python workflows visible.
+
+🛰️ &nbsp;Currently building **AI-native GIS formats** and **quantum-inspired spatial intelligence** for Python.
+
+🎓 &nbsp;B.Tech from **Bharathidasan University**, where I built **EcoSpatial**, a geospatial decision support system for urban environmental risk.
+
+💬 &nbsp;Ask me about **GIS, H3 hexagons, PostGIS, FAISS, RAG and Next.js**, or anything spatial.
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="assets/about.svg" width="100%" alt="Profile card: role, company, location, education and languages"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ![Geospatial](https://img.shields.io/badge/%F0%9F%8C%8D_Geospatial-Engineer-0ea5e9?style=for-the-badge&labelColor=0b1020)
 ![Full-Stack](https://img.shields.io/badge/%E2%9A%A1_Full--Stack-Developer-a78bfa?style=for-the-badge&labelColor=0b1020)
 ![Open Source](https://img.shields.io/badge/%F0%9F%92%9A_Open-Source-34d399?style=for-the-badge&labelColor=0b1020)
 ![India](https://img.shields.io/badge/%F0%9F%93%8D_Tamil_Nadu-India-f472b6?style=for-the-badge&labelColor=0b1020)
 
-<br clear="right"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔭 What I do
-- 🗺️ Design **geospatial data pipelines** that turn raw city signals into decisions
-- 🧠 Build **local-first vector databases** and semantic search for RAG
-- ⚙️ Ship **developer tools** that make Python pipelines observable
-- 🌐 Craft **full-stack web apps** with TypeScript, React and Next.js
+
+- 🗺️ &nbsp;Design **geospatial data pipelines** that turn raw city signals into decisions
+- 🧠 &nbsp;Build **local-first vector databases** and semantic search for RAG
+- ⚙️ &nbsp;Ship **developer tools** that make Python pipelines observable
+- 🌐 &nbsp;Craft **full-stack web apps** with TypeScript, React and Next.js
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Right now
-- 🛰️ **GeoForge** — an AI-native GIS vector format (`.geof`)
-- ⚛️ **QoreGeo** — quantum-powered spatial intelligence for Python
-- 📡 **Urban Signal Fusion** — real-time City Stress Index for smart cities
-- 🔐 **VecForge** — encrypted, multimodal, offline vector DB
+
+- 🛰️ &nbsp;**GeoForge**: an AI-native GIS vector format (`.geof`)
+- ⚛️ &nbsp;**QoreGeo**: quantum-powered spatial intelligence for Python
+- 📡 &nbsp;**Urban Signal Fusion**: real-time City Stress Index for smart cities
+- 🔐 &nbsp;**VecForge**: encrypted, multimodal, offline vector database
 
 </td>
 </tr>
@@ -64,7 +81,7 @@ I love turning **maps, sensors and city data** into software people can actually
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -72,11 +89,11 @@ I love turning **maps, sensors and city data** into software people can actually
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash&theme=dark" alt="languages"/></a>
 
-**Frontend & Frameworks**
+**Frontend and Frameworks**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,flask&theme=dark" alt="frameworks"/></a>
 
-**Data, Geo & Infra**
+**Data, Geo and Infra**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,vercel,vscode,figma&theme=dark" alt="tools"/></a>
 
@@ -94,40 +111,68 @@ I love turning **maps, sensors and city data** into software people can actually
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-<a href="https://github.com/bosekarmegam/urban-signal-fusion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=urban-signal-fusion&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="urban-signal-fusion"/>
-</a>
-<a href="https://github.com/bosekarmegam/vecforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=vecforge&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="vecforge"/>
-</a>
+<a href="https://github.com/bosekarmegam/urban-signal-fusion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=urban-signal-fusion&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="urban-signal-fusion"/></a>
+<a href="https://github.com/bosekarmegam/vecforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=vecforge&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="vecforge"/></a>
 
-<a href="https://github.com/bosekarmegam/stepcast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=stepcast&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="stepcast"/>
-</a>
-<a href="https://github.com/bosekarmegam/qoregeo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=qoregeo&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="qoregeo"/>
-</a>
+<a href="https://github.com/bosekarmegam/stepcast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=stepcast&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="stepcast"/></a>
+<a href="https://github.com/bosekarmegam/qoregeo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=qoregeo&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="qoregeo"/></a>
 
 </div>
 
 <br/>
 
-| Project | What it is | Stack | Links |
-|:--|:--|:--|:--|
-| 🏙️ **Urban Signal Fusion** | High-performance geospatial pipeline that captures real-time city rhythms, computes a **City Stress Index (CSI)** and flags urban anomalies instantly. | Python · H3 · Real-time | [Repo](https://github.com/bosekarmegam/urban-signal-fusion) · [Live](https://urban-signal-fusion.vercel.app) |
-| 🔐 **VecForge** | Universal, local-first Python vector database with AES-256 / SQLCipher security, RBAC, multimodal ingestion, hybrid search and optional quantum-inspired acceleration. | Python · FAISS · RAG | [Repo](https://github.com/bosekarmegam/vecforge) · [Docs](https://bosekarmegam.github.io/vecforge/) |
-| 👁️ **StepCast** | Make Python scripts visible: wrap any function in a named step and watch it run live with label, output, timing and pass/fail. Zero dependencies. | Python · PyPI · DevTools | [Repo](https://github.com/bosekarmegam/stepcast) · [Docs](https://bosekarmegam.github.io/stepcast/) |
-| ⚛️ **QoreGeo** | Quantum-powered spatial intelligence for Python. Zero dependencies. | Python | [Repo](https://github.com/bosekarmegam/qoregeo) |
-| 🧬 **GeoForge** | The AI-native GIS vector format (`.geof`), designed to replace Shapefile, GeoJSON, KML and GeoPackage. | GIS · File formats | [Repo](https://github.com/bosekarmegam/geoforge) |
-| 🌿 **EcoSpatial DSS** | Geospatial Decision Support System for urban environmental risk assessment (academic project, Bharathidasan University). | TypeScript · GIS | [Live](https://ecospatial.vercel.app) |
+<table align="center">
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="center">Stack</th>
+<th align="center">Links</th>
+</tr>
+<tr>
+<td>🏙️ <b>Urban Signal Fusion</b></td>
+<td>Real-time geospatial pipeline that computes a <b>City Stress Index</b> and flags urban anomalies instantly.</td>
+<td align="center">Python · H3</td>
+<td align="center"><a href="https://github.com/bosekarmegam/urban-signal-fusion">Repo</a> · <a href="https://urban-signal-fusion.vercel.app">Live</a></td>
+</tr>
+<tr>
+<td>🔐 <b>VecForge</b></td>
+<td>Local-first Python vector database with AES-256 encryption, RBAC, multimodal ingestion and hybrid search.</td>
+<td align="center">Python · FAISS</td>
+<td align="center"><a href="https://github.com/bosekarmegam/vecforge">Repo</a> · <a href="https://bosekarmegam.github.io/vecforge/">Docs</a></td>
+</tr>
+<tr>
+<td>👁️ <b>StepCast</b></td>
+<td>Wrap any Python function in a named step and watch it run live with output, timing and pass/fail. Zero dependencies.</td>
+<td align="center">Python · PyPI</td>
+<td align="center"><a href="https://github.com/bosekarmegam/stepcast">Repo</a> · <a href="https://bosekarmegam.github.io/stepcast/">Docs</a></td>
+</tr>
+<tr>
+<td>⚛️ <b>QoreGeo</b></td>
+<td>Quantum-powered spatial intelligence for Python. Zero dependencies.</td>
+<td align="center">Python</td>
+<td align="center"><a href="https://github.com/bosekarmegam/qoregeo">Repo</a></td>
+</tr>
+<tr>
+<td>🧬 <b>GeoForge</b></td>
+<td>AI-native GIS vector format (<code>.geof</code>) built to replace Shapefile, GeoJSON, KML and GeoPackage.</td>
+<td align="center">GIS · Formats</td>
+<td align="center"><a href="https://github.com/bosekarmegam/geoforge">Repo</a></td>
+</tr>
+<tr>
+<td>🌿 <b>EcoSpatial DSS</b></td>
+<td>Geospatial decision support system for urban environmental risk assessment. Academic project at Bharathidasan University.</td>
+<td align="center">TypeScript · GIS</td>
+<td align="center"><a href="https://ecospatial.vercel.app">Live</a></td>
+</tr>
+</table>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -142,7 +187,7 @@ I love turning **maps, sensors and city data** into software people can actually
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
@@ -156,7 +201,7 @@ I love turning **maps, sensors and city data** into software people can actually
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
@@ -167,7 +212,7 @@ I love turning **maps, sensors and city data** into software people can actually
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Open+to+collaborations+on+GIS%2C+AI+%26+open-source+%F0%9F%A4%9D;Thanks+for+visiting+%E2%80%94+have+a+great+day!+%E2%98%80%EF%B8%8F" alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Open+to+collaborations+on+GIS%2C+AI+and+open+source+%F0%9F%A4%9D;Thanks+for+visiting%2C+have+a+great+day!+%E2%98%80%EF%B8%8F" alt="Footer typing"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:a78bfa,100:0ea5e9&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
 
