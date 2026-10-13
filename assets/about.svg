@@ -68,7 +68,7 @@
       <rect x="28" y="198" width="34" height="34" rx="9" fill="#34d399" fill-opacity="0.15"/>
       <path d="M33,214 l12,-6 l12,6 l-12,6 Z M39,217 v6 c0,3 12,3 12,0 v-6" stroke="#34d399" stroke-width="1.8" fill="none" stroke-linejoin="round"/>
       <text x="74" y="211" font-size="11" fill="#64748b" font-weight="700" letter-spacing="1.5">EDUCATION</text>
-      <text x="74" y="228" font-size="15" fill="#e2e8f0" font-weight="600">M.Tech, Bharathidasan University</text>
+      <text x="74" y="228" font-size="15" fill="#e2e8f0" font-weight="600">B.Tech, Bharathidasan University</text>
     </g>
 
     <!-- language bars -->

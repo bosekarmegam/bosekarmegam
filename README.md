@@ -26,7 +26,7 @@ I love turning **maps, sensors and city data** into software people can actually
 
 🛰️ &nbsp;Currently crafting **AI-native GIS formats** and **quantum-inspired spatial intelligence** for Python.
 
-🎓 &nbsp;M.Tech from **Bharathidasan University** — thesis on geospatial decision support for urban environmental risk.
+🎓 &nbsp;B.Tech from **Bharathidasan University** — where I built **EcoSpatial**, a geospatial decision support system for urban environmental risk.
 
 💬 &nbsp;Ask me about **GIS, H3 hexagons, PostGIS, FAISS, RAG, Next.js** — or anything spatial.
 
@@ -112,13 +112,6 @@ I love turning **maps, sensors and city data** into software people can actually
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=qoregeo&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="qoregeo"/>
 </a>
 
-<a href="https://github.com/bosekarmegam/geoforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=geoforge&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="geoforge"/>
-</a>
-<a href="https://github.com/bosekarmegam/ecospatial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosekarmegam&repo=ecospatial&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1" alt="ecospatial"/>
-</a>
-
 </div>
 
 <br/>
@@ -130,7 +123,7 @@ I love turning **maps, sensors and city data** into software people can actually
 | 👁️ **StepCast** | Make Python scripts visible: wrap any function in a named step and watch it run live with label, output, timing and pass/fail. Zero dependencies. | Python · PyPI · DevTools | [Repo](https://github.com/bosekarmegam/stepcast) · [Docs](https://bosekarmegam.github.io/stepcast/) |
 | ⚛️ **QoreGeo** | Quantum-powered spatial intelligence for Python. Zero dependencies. | Python | [Repo](https://github.com/bosekarmegam/qoregeo) |
 | 🧬 **GeoForge** | The AI-native GIS vector format (`.geof`), designed to replace Shapefile, GeoJSON, KML and GeoPackage. | GIS · File formats | [Repo](https://github.com/bosekarmegam/geoforge) |
-| 🌿 **EcoSpatial DSS** | Geospatial Decision Support System for urban environmental risk assessment (M.Tech thesis, Bharathidasan University). | TypeScript · GIS | [Repo](https://github.com/bosekarmegam/ecospatial) · [Live](https://ecospatial.vercel.app) |
+| 🌿 **EcoSpatial DSS** | Geospatial Decision Support System for urban environmental risk assessment (academic project, Bharathidasan University). | TypeScript · GIS | [Live](https://ecospatial.vercel.app) |
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -143,15 +136,7 @@ I love turning **maps, sensors and city data** into software people can actually
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bosekarmegam&theme=tokyonight&hide_border=true&background=0b1020&ring=a78bfa&fire=f472b6&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bosekarmegam&theme=tokyo-night&hide_border=true&bg_color=0b1020&color=cbd5e1&line=a78bfa&point=7dd3fc&area=true&area_color=0ea5e9" width="100%" alt="Contribution graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bosekarmegam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
+<img src="https://streak-stats.demolab.com/?user=bosekarmegam&theme=tokyonight&hide_border=true&background=0b1020&ring=a78bfa&fire=f472b6&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub streak"/>
 
 </div>
 
@@ -178,7 +163,7 @@ I love turning **maps, sensors and city data** into software people can actually
 [![GitHub](https://img.shields.io/badge/GitHub-bosekarmegam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bosekarmegam)
 [![Email](https://img.shields.io/badge/Email-suneelbose%40arcgx.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suneelbose@arcgx.in)
 [![Gmail](https://img.shields.io/badge/Gmail-suneelbosekarmegam-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suneelbosekarmegam@gmail.com)
-[![ArcGX](https://img.shields.io/badge/ArcGX-TechLabs-0ea5e9?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/bosekarmegam/arcgx-portal)
+![ArcGX](https://img.shields.io/badge/ArcGX-TechLabs-0ea5e9?style=for-the-badge&logo=rocket&logoColor=white)
 
 <br/>
 
