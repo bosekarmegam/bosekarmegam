@@ -18,24 +18,26 @@
 
 ## 🧭 About Me
 
-```python
-class SuneelBoseK:
-    def __init__(self):
-        self.name      = "Suneel Bose K"
-        self.role      = "Geospatial Engineer & Full-Stack Developer"
-        self.company   = "ArcGX TechLabs Private Limited"
-        self.location  = "Tamil Nadu, India 🇮🇳"
-        self.education = "M.Tech — Bharathidasan University"
-        self.focus     = ["GIS & spatial analytics", "real-time data pipelines",
-                          "vector search & RAG", "developer tooling"]
-        self.languages = {"Python": "💚", "TypeScript": "💙", "JavaScript": "💛"}
+<img align="right" src="assets/about.svg" width="440" alt="Profile card: role, company, location, education and languages"/>
 
-    def currently(self):
-        return "Building AI-native GIS formats and quantum-inspired spatial intelligence 🛰️"
+Hey, I'm **Suneel Bose K** 👋 — a **Geospatial Engineer** and **Full-Stack Developer** from Tamil Nadu, India, building at **ArcGX TechLabs**.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something spatial together. 🌍")
-```
+I love turning **maps, sensors and city data** into software people can actually use: real-time spatial pipelines, local-first vector search, and tools that make Python workflows visible.
+
+🛰️ &nbsp;Currently crafting **AI-native GIS formats** and **quantum-inspired spatial intelligence** for Python.
+
+🎓 &nbsp;M.Tech from **Bharathidasan University** — thesis on geospatial decision support for urban environmental risk.
+
+💬 &nbsp;Ask me about **GIS, H3 hexagons, PostGIS, FAISS, RAG, Next.js** — or anything spatial.
+
+<br/>
+
+![Geospatial](https://img.shields.io/badge/%F0%9F%8C%8D_Geospatial-Engineer-0ea5e9?style=for-the-badge&labelColor=0b1020)
+![Full-Stack](https://img.shields.io/badge/%E2%9A%A1_Full--Stack-Developer-a78bfa?style=for-the-badge&labelColor=0b1020)
+![Open Source](https://img.shields.io/badge/%F0%9F%92%9A_Open-Source-34d399?style=for-the-badge&labelColor=0b1020)
+![India](https://img.shields.io/badge/%F0%9F%93%8D_Tamil_Nadu-India-f472b6?style=for-the-badge&labelColor=0b1020)
+
+<br clear="right"/>
 
 <table>
 <tr>
