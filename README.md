@@ -178,9 +178,9 @@ I turn **maps, sensors and city data** into software people actually use: real-t
 <tr>
 <td>
 
-**VecForge: A Local-First Hybrid Vector Database with Persistent Agent Memory and a Corrected Grover-Inspired Reranker**<br/>
+**VecForge: A Local-First Hybrid Vector Database with Persistent Agent Memory and Order-Preserving Grover-Inspired Reranking**<br/>
 Suneel Bose K · ArcGX TechLabs Private Limited · Preprint, October 2026<br/>
-Hybrid FAISS and BM25 retrieval with in-index namespace constraints, encrypted snapshots that reopen without re-indexing, MCP memory for AI assistants, and a proof that diffusion-only "Grover" reranking can only preserve or reverse a ranking.<br/>
+Hybrid FAISS and BM25 retrieval (nDCG@10 of 0.707 on SciFact, against 0.645 for dense search), in-index namespace constraints, encrypted snapshots that reopen without re-indexing, MCP memory for AI assistants, and a proof that diffusion-only "Grover" reranking can only preserve or reverse a ranking. 18 experiments, 21 figures.<br/>
 <a href="https://github.com/bosekarmegam/vecforge/blob/main/paper/VecForge-2.0-Paper.pdf">PDF</a> · <a href="https://github.com/bosekarmegam/vecforge/tree/main/paper">Experiments and source</a> · <a href="https://github.com/bosekarmegam/vecforge/blob/main/CITATION.cff">Cite</a>
 
 </td>
