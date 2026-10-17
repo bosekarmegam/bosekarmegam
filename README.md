@@ -73,7 +73,7 @@ I turn **maps, sensors and city data** into software people actually use: real-t
 - 🛰️ &nbsp;**GeoForge**: an AI-native GIS vector format (`.geof`)
 - ⚛️ &nbsp;**QoreGeo**: quantum-powered spatial intelligence for Python
 - 📡 &nbsp;**Urban Signal Fusion**: real-time City Stress Index for smart cities
-- 🔐 &nbsp;**VecForge**: encrypted, multimodal, offline vector database
+- 🔐 &nbsp;**VecForge 2.0**: local-first vector database with AI memory for Claude over MCP ([paper](https://github.com/bosekarmegam/vecforge/blob/main/paper/VecForge-2.0-Paper.pdf))
 
 </td>
 </tr>
@@ -140,9 +140,9 @@ I turn **maps, sensors and city data** into software people actually use: real-t
 </tr>
 <tr>
 <td>🔐 <b>VecForge</b></td>
-<td>Local-first Python vector database with AES-256 encryption, RBAC, multimodal ingestion and hybrid search.</td>
+<td>Local-first Python vector database with hybrid search, AES-256 encryption and long-term AI memory for Claude over MCP. v2.0 on PyPI.</td>
 <td align="center">Python · FAISS</td>
-<td align="center"><a href="https://github.com/bosekarmegam/vecforge">Repo</a> · <a href="https://bosekarmegam.github.io/vecforge/">Docs</a></td>
+<td align="center"><a href="https://github.com/bosekarmegam/vecforge">Repo</a> · <a href="https://bosekarmegam.github.io/vecforge/">Docs</a> · <a href="https://github.com/bosekarmegam/vecforge/blob/main/paper/VecForge-2.0-Paper.pdf">Paper</a></td>
 </tr>
 <tr>
 <td>👁️ <b>StepCast</b></td>
@@ -167,6 +167,23 @@ I turn **maps, sensors and city data** into software people actually use: real-t
 <td>Geospatial decision support system for urban environmental risk assessment. Academic project at Bharathidasan University.</td>
 <td align="center">TypeScript · GIS</td>
 <td align="center"><a href="https://ecospatial.vercel.app">Live</a></td>
+</tr>
+</table>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+<h2 align="center">📄 Research & Publications</h2>
+
+<table align="center">
+<tr>
+<td>
+
+**VecForge: A Local-First Hybrid Vector Database with Persistent Agent Memory and a Corrected Grover-Inspired Reranker**<br/>
+Suneel Bose K · ArcGX TechLabs Private Limited · Preprint, October 2026<br/>
+Hybrid FAISS and BM25 retrieval with in-index namespace constraints, encrypted snapshots that reopen without re-indexing, MCP memory for AI assistants, and a proof that diffusion-only "Grover" reranking can only preserve or reverse a ranking.<br/>
+<a href="https://github.com/bosekarmegam/vecforge/blob/main/paper/VecForge-2.0-Paper.pdf">PDF</a> · <a href="https://github.com/bosekarmegam/vecforge/tree/main/paper">Experiments and source</a> · <a href="https://github.com/bosekarmegam/vecforge/blob/main/CITATION.cff">Cite</a>
+
+</td>
 </tr>
 </table>
 
